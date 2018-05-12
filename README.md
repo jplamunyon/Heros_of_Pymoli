@@ -1,6 +1,13 @@
 # Heros_of_Pymoli
 Homework 4
 
+Heroes Of Pymoli Data Analysis
+Of the 573 active players, the vast majority are male (81%). There also exists, a smaller, but notable proportion of female players (17%).
+
+Our peak age demographic falls between 20-24 (41%) with secondary groups falling between 15-19 (24%) and 10-14 (10%).
+
+Our best selling item was the Final Critic which resulted in a net profit of $38.60
+
 import pandas as pd
 import numpy as np
 
